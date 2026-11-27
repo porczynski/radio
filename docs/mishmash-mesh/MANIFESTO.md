@@ -1,6 +1,6 @@
 # The MishMash Mesh Manifesto (MMN)
 
-*Draft 0.1 · 2026-11-27 · mishmashmesh.net · mishmashmesh.network*
+*Draft 0.1 · 2026-11-27 · mishmashmesh.net · mishmashmesh.network · Licence: CC BY-SA 4.0*
 
 ## Why
 
@@ -51,6 +51,23 @@ MMN does not reinvent everything. **We connect what already exists:** WiFi mesh,
 - Help with code, documentation, translations, antenna and enclosure design.
 - Build a gateway for your technology: Meshtastic, MeshCore, DMR, CB, APRS, SMS.
 - Tell your community about MMN.
+
+## Further principles
+
+- **Nobody owns the network.** There is no central server that can be switched off. Your identity is a cryptographic key, not an account with a company.
+- **All technologies are equal.** We are not inventing yet another radio. We connect what already works and respect the communities that built it.
+- **Open standards.** Protocols are publicly documented so anyone can write their own implementation.
+- **Licensed bands in licensed hands.** Gateways into licensed bands are run by licensed operators. Where the law forbids encryption (amateur bands), we say so clearly.
+- **Save lives first, chat later.** Emergency messages take priority over everything else.
+- **Transparency, not promises.** We do not promise profits or rising value of anything. We promise transparent rules.
+
+Want more? Add a LoRa module, a CB or amateur radio interface, or a GSM modem to your node and it becomes a gateway. You can also help us understand the radio law in your country.
+
+## What we do not do
+
+- We do not sell promises. MMN is infrastructure, not an investment product.
+- We do not build a network for breaking the law or interfering with other spectrum users.
+- We do not collect user data for sale.
 
 **Connectivity belongs to people. Let's build it together.**
 

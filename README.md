@@ -17,7 +17,7 @@ See [PROJECT_LOG.md](PROJECT_LOG.md) for the chronological log.
 
 ## Canonical documents on Google Drive
 
-Each document has exactly one current version. Older copies were moved to the `_Archiwum duplikatów` folder on 2026-11-27 and should not be edited. The Drive workspace has one structure: `EN/`, `PL/`, `Files (firmware & software)/`.
+Each document has exactly one current version. Older copies were moved to the `_Archiwum duplikatów` folder on 2026-11-27; that folder now lives outside the Radio folder as a separate `Radio-Archive` folder. Archived copies should not be edited. The Drive workspace has one structure: `EN/`, `PL/`, `Files (firmware & software)/`.
 
 | Document | English (EN/) | Polish (PL/) |
 |---|---|---|

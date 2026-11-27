@@ -12,6 +12,7 @@ The main workspace (with Polish translations, working notes and downloaded binar
 | 2026-11-27 | DM-32UV downloaded files: sources and SHA256 checksums (binaries are not stored in git) | [files/2026-11-27-dm-32uv/](files/2026-11-27-dm-32uv/) |
 | 2026-11-27 | MishMash Mesh (MMN): public manifesto | [docs/mishmash-mesh/MANIFESTO.md](docs/mishmash-mesh/MANIFESTO.md) |
 | 2026-11-27 | MishMash Mesh (MMN): analysis of similar projects, comparison tables, blockchain ideas, pros/cons, open questions | [docs/mishmash-mesh/2026-11-27-analysis.md](docs/mishmash-mesh/2026-11-27-analysis.md) |
+| 2026-11-27 | MishMash Mesh (MMN): estimate of unused Wi-Fi routers worldwide (technology, vendors, flashability, USB, ISP lock, number of ISPs) | [docs/mishmash-mesh/2026-11-27-unused-routers-estimate.md](docs/mishmash-mesh/2026-11-27-unused-routers-estimate.md) |
 
 See [PROJECT_LOG.md](PROJECT_LOG.md) for the chronological log.
 
@@ -26,6 +27,7 @@ Each document has exactly one current version. Older copies were moved to the `_
 | MMN analysis, opinion and questions | [2026-11-27 MMN Analysis](https://docs.google.com/document/d/1qYDQ8aZbJZI_6jpjiBL3fB1ujfPH4HaaD-FZhcqHvEE/edit) | [2026-11-27 Analiza MMN](https://docs.google.com/document/d/1haj_G2wX_vG_0lf0I8rMpSdoEFVAamCIrlQopT9by4E/edit) |
 | MMN research: mesh networks | [Research – mesh networks](https://docs.google.com/document/d/1v0lk22NbJA9MnmzqaxED_6jf0sp8csLb5lCYSqmZ65A/edit) | [Research – sieci mesh](https://docs.google.com/document/d/1g4Wes6VoDwlh2zX2XwuNDmEIZ4w8GtOGDLE2u16tZq8/edit) |
 | MMN token, monetisation, legal | [Token, monetisation and legal risks](https://docs.google.com/document/d/1ePH7NfySYegH8ZkzCBAVDJPbK7nucfNj-z7wNP79nkc/edit) | [Token, monetyzacja i ryzyka prawne](https://docs.google.com/document/d/1p4CULNHIE1MUepyHOQWs0a-UX5Xi3BisRGBAAB5vGgQ/edit) |
+| MMN unused routers estimate (doc and spreadsheet) | [Unused Wi-Fi routers worldwide: estimate](https://docs.google.com/document/d/1CwVSLFvLTLeaBx-r2Y7mXRBBJ5dMzFZTcmTYvWsgKVc/edit), [estimate model](https://docs.google.com/spreadsheets/d/18IXAK-AL6SkNswFpWij04_VIuez-GZylh4jE8JyALT8/edit) | [Nieużywane routery Wi-Fi na świecie: szacunek](https://docs.google.com/document/d/12TEWIJ-AWpgiGGRcexfq6LW7EV-s12GbPTbaQt0LBs0/edit), [model szacunkowy](https://docs.google.com/spreadsheets/d/1VsJnsEQrWZmswMKKx-DjRDyzfolddWvGCkQRdNpixm4/edit) |
 | DM-32UV report | [Baofeng DM-32UV report](https://docs.google.com/document/d/1oVhfB1xnGUIu9Pp6tdlyoj1qRtL9X89_gjjGNTa4BxY/edit) | [Raport DM-32UV](https://docs.google.com/document/d/15NpMLLYadY98E209LlAjnpK7BZCOYfujARosbaA8dME/edit) |
 | DM-32UV files: sources and checksums | [README – sources, checksums, missing files](https://docs.google.com/document/d/10wAiW5PQU011OghQswOgQtKbjsr_02DYJ38rERLlvnc/edit) (Files/) | |
 | Project log | [Project log](https://docs.google.com/document/d/1Tnqaq-iAXWi76ym8H6JYt4FIasM5HEVj0_DGkKyHO-Q/edit) | [Dziennik projektu](https://docs.google.com/document/d/10PAtDlK6nKm6ZzjluoDHg1NRiaMOM7HS1OBZlyJpkUU/edit) |
